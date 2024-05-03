@@ -1,139 +1,455 @@
-[
+[ 
     {
-        "name": "Icon",
-        "icon": "./images/menu/icon.svg",
+        "name": "学习",
         "site": [
             {
-                "name": "IconPark",
-                "description": "免费，规范、统一、多风格切换",
-                "url": "https://iconpark.oceanengine.com/home",
-                "image": "./images/site/iconpark.jpg"
+                "name": "学习通",
+                "url": "https://i.chaoxing.com/"
             },
             {
-                "name": "Iconfont",
-                "description": "免费，中文，图标数量丰富，包含插画资源",
-                "url": "https://www.iconfont.cn",
-                "image": "./images/site/iconfont.png"
+                "name": "慕课",
+                "url": "https://www.icourse163.org/"
             },
             {
-                "name": "Ikonate",
-                "description": "免费，样式统一，可调大小、粗细、颜色等参数",
-                "url": "https://ikonate.com",
-                "image": "./images/site/ikonate.jpg"
+                "name": "知网",
+                "url": "https://www.cnki.net"
             },
             {
-                "name": "Remix Icon",
-                "description": "免费，精致统一的开源图标",
-                "url": "https://remixicon.com",
-                "image": "./images/site/remix.jpg"
+                "name": "WolframAlpha",
+                "url": "https://www.wolframalpha.com"
             },
             {
-                "name": "Iconscout",
-                "description": "精美丰富，包含很多冷门类型",
-                "url": "https://iconscout.com",
-                "image": "./images/site/iconscout.jpg"
+                "name": "GeoGebra",
+                "url": "https://www.geogebra.org"
             },
             {
-                "name": "ICONS8",
-                "description": "多风格",
-                "url": "https://icons8.com",
-                "image": "./images/site/icons8.jpg"
+                "name": "数列",
+                "url": "https://oeis.org"
             },
             {
-                "name": "ICONFINDER",
-                "description": "类型丰富的图标库",
-                "url": "https://www.iconfinder.com",
-                "image": "./images/site/iconfinder.jpg"
-            },
-	    {
-                "name": "Iconoir",
-                "description": "免费，线性图标",
-                "url": "https://iconoir.com/",
-                "image": ""
-            },
-	    {
-                "name": "Tabler Icons",
-                "description": "免费，可在线调节颜色、尺寸",
-                "url": "https://tablericons.com/",
-                "image": ""
+                "name": "LaTeX",
+                "url": "https://www.latexlive.com"
             },
             {
-                "name": "Emoji XD",
-                "description": "线上Emoji百科全书，支持关键词搜索",
-                "url": "https://emojixd.com",
-                "image": "./images/site/emojixd.jpg"
+                "name": "剑桥词典",
+                "url": "https://dictionary.cambridge.org"
             },
             {
-                "name": "seeklogo",
-                "description": "500000+ 个品牌 logo 图片，包含 png 和矢量格式",
-                "url": "https://seeklogo.com",
-                "image": "./images/site/seeklogo.png"
+                "name": "柯林斯",
+                "url": "https://www.collinsdictionary.com"
             },
             {
-                "name": "macOS Icon Gallery",
-                "description": "Mac 应用图标库",
-                "url": "https://www.macosicongallery.com/",
-                "image": "./images/site/icon-gallery.png"
+                "name": "有道翻译",
+                "url": "https://fanyi.youdao.com"
             },
             {
-                "name": "Lordicon",
-                "description": "动画图标库",
-                "url": "https://lordicon.com/",
-                "image": "./images/site/lordicon.png"
+                "name": "CCAMC",
+                "url": "http://www.ccamc.co"
+            },
+            {
+                "name": "Souka",
+                "url": "https://soukaapp.com/dict"
+            },
+            {
+                "name": "不背",
+                "url": "https://bbdc.cn/"
             }
         ]
     },
     {
-        "name": "插画",
-        "icon": "./images/menu/illustration.svg",
+        "name": "音乐",
         "site": [
             {
-                "name": "unDraw",
-                "description": "免费，矢量插画，可在线调节颜色",
-                "url": "https://undraw.co/illustrations",
-                "image": "./images/site/undraw.jpg"
+                "name": "网易云",
+                "url": "https://music.163.com"
             },
             {
-                "name": "Blush",
-                "description": "色彩鲜明的插画，有 figma 和 sketch 插件",
-                "url": "https://blush.design/zh-CN",
-                "image": "./images/site/blush.jpg"
+                "name": "QQ音乐",
+                "url": "https://y.qq.com"
             },
             {
-                "name": "Free Illustrations",
-                "description": "免费高质量矢量插画资源",
-                "url": "https://sketchvalley.com/",
-                "image": "./images/site/sv.jpg"
+                "name": "酷狗",
+                "url": "https://www.kugou.com"
             },
             {
-                "name": "Illustrationx",
-                "description": "国外的插画平台，世界各地插画师的作品",
-                "url": "https://www.illustrationx.com",
-                "image": "./images/site/illustrationx.jpg"
+                "name": "漫音社",
+                "url": "http://www.acgjc.com"
             },
             {
-                "name": "Folio",
-                "description": "插画机构，包含从崭露头角的艺术家到行业偶像的作品",
-                "url": "https://folioart.co.uk",
-                "image": "./images/site/folioart.jpg"
+                "name": "歌词滚动姬",
+                "url": "https://lrc-maker.github.io"
             },
             {
-                "name": "涂鸦王国",
-                "description": "国内插画平台",
-                "url": "https://www.gracg.com",
-                "image": "./images/site/gracg.jpg"
+                "name": "JE曲谱库",
+                "url": "https://github.com/zytx121/je"
+            }
+        ]
+    },
+    {
+        "name": "阅读",
+        "site": [
+            {
+                "name": "微信读书",
+                "url": "https://weread.qq.com"
             },
             {
-                "name": "404 Illustrations",
-                "description": "有趣的404插画",
-                "url": "https://www.kapwing.com/404-illustrations",
-                "image": "./images/site/404-illustrations.jpg"
+                "name": "鸠摩",
+                "url": "https://www.jiumodiary.com"
             },
             {
-                "name": "Pixilart",
-                "description": "在线像素插画艺术平台",
-                "url": "https://www.pixilart.com/",
-                "image": "./images/site/pixilart.jpg"
+                "name": "Gutenberg",
+                "url": "https://www.gutenberg.org"
+            },
+            {
+                "name": "鲁迅资料",
+                "url": "http://www.luxunmuseum.com.cn/cx/"
+            },
+            {
+                "name": "轻小说文库",
+                "url": "https://www.wenku8.net/index.php"
+            },
+            {
+                "name": "轻之国度",
+                "url": "https://www.lightnovel.us"
+            },
+            {
+                "name": "凉宫春日",
+                "url": "https://www.haruhifanclub.com/library"
+            },
+            {
+                "name": "CFOP",
+                "url": "https://www.gancube.com/zh/3x3x3-cfop-guide-of-gancube"
+            },
+            {
+                "name": "数独",
+                "url": "https://www.zhihu.com/column/SunnieSudoku"
+            },
+            {
+                "name": "FPP",
+                "url": "https://otexts.com/fppcn/"
+            },
+            {
+                "name": "生存手册",
+                "url": "https://survivesjtu.gitbook.io/survivesjtumanual/"
+            },
+            {
+                "name": "事物与事件",
+                "url": "https://pedantries.com/"
+            },
+            {
+                "name": "QuestMobile报告",
+                "url": "https://www.questmobile.com.cn/research/reports"
+            },
+            {
+                "name": "财联社",
+                "url": "https://www.cls.cn/"
+            }
+        ]
+    },
+    {
+        "name": "视频",
+        "site": [
+            {
+                "name": "Bilibili",
+                "url": "https://www.bilibili.com",
+                "description": "哔哩哔哩"
+            },
+            {
+                "name": "AcFun",
+                "url": "https://www.acfun.cn",
+                "description": "AcFun弹幕视频网"
+            },
+            {
+                "name": "AGE动漫",
+                "url": "https://www.agedm.org/"
+            },
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/"
+            },
+            {
+                "name": "萌番组",
+                "url": "https://bgm-moe.hacgn.fun",
+                "description": "Bangumi.moe镜像网站"
+            },
+            {
+                "name": "蜜柑计划",
+                "url": "https://mikanime.tv",
+                "description": "Mikan Project"
+            },
+            {
+                "name": "新番表",
+                "url": "https://yuc.wiki",
+                "description": "Yuc's Anime List"
+            },
+            {
+                "name": "VCB-S",
+                "url": "https://vcb-s.com",
+                "description": "VCB Studio"
+            },
+            {
+                "name": "英配部落",
+                "url": "https://www.edatribe.com",
+                "description": "英配动画网站"
+            },
+            {
+                "name": "识图找番",
+                "url": "https://trace.moe",
+                "description": "trace.moe"
+            }
+        ]
+    },
+    {
+        "name": "图片",
+        "site": [
+            {
+                "name": "pixiv",
+                "url": "https://www.pixiv.net"
+            },
+            {
+                "name": "萌图社",
+                "url": "https://moetu.club"
+            },
+            {
+                "name": "Pixivic",
+                "url": "https://pixivic.com"
+            },
+            {
+                "name": "SauceNAO",
+                "url": "https://saucenao.com"
+            },
+            {
+                "name": "Bigjpg",
+                "url": "https://bigjpg.com"
+            },
+            {
+                "name": "pom",
+                "url": "https://pom-official.jp/"
+            }
+        ]
+    },
+    {
+        "name": "日常",
+        "site": [
+            {
+                "name": "Outlook",
+                "url": "https://outlook.live.com"
+            },
+            {
+                "name": "完美邮箱",
+                "url": "https://www.email.cn/"
+            },
+            {
+                "name": "QQ邮箱",
+                "url": "https://mail.qq.com"
+            },
+            {
+                "name": "知乎",
+                "url": "https://www.zhihu.com/explore"
+            },
+            {
+                "name": "微博",
+                "url": "https://weibo.com"
+            },
+            {
+                "name": "X",
+                "url": "https://twitter.com/home"
+            },
+            {
+                "name": "贴吧",
+                "url": "https://tieba.baidu.com"
+            },
+            {
+                "name": "QQ空间",
+                "url": "https://qzone.qq.com"
+            },
+            {
+                "name": "京东",
+                "url": "https://www.jd.com/"
+            },
+            {
+                "name": "淘宝",
+                "url": "https://www.taobao.com/"
+            }
+        ]
+    },
+    {
+        "name": "游戏",
+        "site": [
+            {
+                "name": "STEAM",
+                "url": "https://store.steampowered.com"
+            },
+            {
+                "name": "Watt Toolkit",
+                "url": "https://steampp.net"
+            },
+            {
+                "name": "EPIC",
+                "url": "https://store.epicgames.com/zh-CN/"
+            },
+            {
+                "name": "月幕",
+                "url": "https://www.ymgal.games"
+            },
+            {
+                "name": "东方",
+                "url": "https://cn.thdog.moe"
+            }
+        ]
+    },
+    {
+        "name": "工具",
+        "site": [
+            {
+                "name": "滴答清单",
+                "url": "https://dida365.com"
+            },
+            {
+                "name": "百度网盘",
+                "url": "https://pan.baidu.com"
+            },
+            {
+                "name": "阿里云盘",
+                "url": "https://aliyundrive.com"
+            },
+            {
+                "name": "天翼云盘",
+                "url": "https://cloud.189.cn"
+            },
+            {
+                "name": "蓝奏云",
+                "url": "https://up.woozooo.com"
+            },
+            {
+                "name": "Hi工具网",
+                "url": "https://tool.hi.cn/"
+            },
+            {
+                "name": "OKTools",
+                "url": "https://oktools.net"
+            },
+            {
+                "name": "SOJSON",
+                "url": "https://www.sojson.com"
+            },
+            {
+                "name": "Smallpdf",
+                "url": "https://smallpdf.com"
+            },
+            {
+                "name": "Convertio",
+                "url": "https://convertio.co"
+            },
+            {
+                "name": "演示研究所",
+                "url": "https://www.slidelab.cc/"
+            },
+            {
+                "name": "Earth",
+                "url": "https://earth.nullschool.net"
+            },
+            {
+                "name": "塔罗网",
+                "url": "https://www.taluo.me/"
+            },
+            {
+                "name": "文本转语音",
+                "url": "https://bv2.firefly.matce.cn/"
+            }
+        ]
+    },
+    {
+        "name": "编程",
+        "site": [
+            {
+                "name": "C#语法",
+                "url": "https://sunnieshine.gitbook.io/c-sharp-tutorial"
+            },
+            {
+                "name": "r2coding",
+                "url": "https://www.r2coding.com/#/"
+            },
+            {
+                "name": "MDUI",
+                "url": "https://www.mdui.org"
+            },
+            {
+                "name": ".NET",
+                "url": "https://docs.microsoft.com/zh-cn/dotnet"
+            },
+            {
+                "name": "NumPy",
+                "url": "https://numpy.org/doc/stable/reference/index.html"
+            },
+            {
+                "name": "pandas",
+                "url": "https://pandas.pydata.org/docs/reference/index.html"
+            },
+            {
+                "name": "Gitee",
+                "url": "https://gitee.com/"
+            },
+            {
+                "name": "Carbon",
+                "url": "https://carbon.now.sh"
+            },
+            {
+                "name": "tuna",
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com"
+            },
+            {
+                "name": "github镜像",
+                "url": "https://hub.nuaa.cf/"
+            },
+            {
+                "name": "FastGit",
+                "url": "https://doc.fastgit.org"
+            }
+        ]
+    },
+    {
+        "name": "导航",
+        "site": [
+            {
+                "name": "万花筒",
+                "url": "https://0x3.com"
+            },
+            {
+                "name": "ACG导航",
+                "url": "https://acgdh.cc"
+            },
+            {
+                "name": "小白-白",
+                "url": "https://moedog.org"
+            },
+            {
+                "name": "烧风",
+                "url": "https://shao.fun/"
+            },
+            {
+                "name": "阿虚同学",
+                "url": "https://www.axutongxue.com"
+            },
+            {
+                "name": "Randy",
+                "url": "https://lutaonan.com"
+            },
+            {
+                "name": "羽翼城",
+                "url": "https://www.dogfight360.com/blog/"
+            },
+            {
+                "name": "magiconch",
+                "url": "https://lab.magiconch.com/"
+            },
+            {
+                "name": "ApacheCN",
+                "url": "https://docs.apachecn.org/"
             }
         ]
     }
