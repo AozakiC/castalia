@@ -1,6 +1,7 @@
-[ 
+[
     {
         "name": "学习",
+        "icon": "./images/menu/study.svg",
         "site": [
             {
                 "name": "学习通",
@@ -58,6 +59,7 @@
     },
     {
         "name": "音乐",
+        "icon": "./images/menu/music.svg",
         "site": [
             {
                 "name": "网易云",
@@ -87,6 +89,7 @@
     },
     {
         "name": "阅读",
+        "icon": "./images/menu/book.svg",
         "site": [
             {
                 "name": "微信读书",
@@ -148,6 +151,7 @@
     },
     {
         "name": "视频",
+        "icon": "./images/menu/video.svg",
         "site": [
             {
                 "name": "Bilibili",
@@ -201,6 +205,7 @@
     },
     {
         "name": "图片",
+        "icon": "./images/menu/picture.svg",
         "site": [
             {
                 "name": "pixiv",
@@ -230,6 +235,7 @@
     },
     {
         "name": "日常",
+        "icon": "./images/menu/tea.svg",
         "site": [
             {
                 "name": "Outlook",
@@ -275,6 +281,7 @@
     },
     {
         "name": "游戏",
+        "icon": "./images/menu/game.svg",
         "site": [
             {
                 "name": "STEAM",
@@ -300,6 +307,7 @@
     },
     {
         "name": "工具",
+        "icon": "./images/menu/tool.svg",
         "site": [
             {
                 "name": "滴答清单",
@@ -361,6 +369,7 @@
     },
     {
         "name": "编程",
+        "icon": "./images/menu/code.svg",
         "site": [
             {
                 "name": "C#语法",
@@ -414,6 +423,7 @@
     },
     {
         "name": "导航",
+        "icon": "./images/menu/blog.svg",
         "site": [
             {
                 "name": "万花筒",
