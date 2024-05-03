@@ -138,6 +138,19 @@ const Content = () => {
                 <VStack
                     height="calc(100vh - 250px)"
                 >
+                                    <Box flexGrow={1} alignSelf="stretch" pt="100px">
+                        <H2 fontSize="16px" mb="15px">关于</H2>
+                        <VStack alignItems="flex-start" fontSize="16px">
+                            <Text>
+                                <b>我的</b>面板中所有内容都是存储在浏览器本地的，所以更换电脑或者浏览器，并不会同步数据。
+                                你可以点击卡片右上角的复选框将你喜欢的网站添加至<b>我的</b>。
+                            </Text>
+                            <Text>
+                                项目地址：
+                                <a className="linkColor" href="https://github.com/afterwork-design/castalia">castalia | github</a>
+                            </Text>
+                        </VStack>
+                    </Box>
                     <Text color="#999999" fontSize="16px">
                         <span>Designed by </span>
                         <a href="https://tangweijuan.com" target="_blank">Tang Weijuan</a>
