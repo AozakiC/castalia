@@ -423,7 +423,7 @@
     },
     {
         "name": "导航",
-        "icon": "./images/menu/blog.svg",
+        "icon": "./images/menu/page.svg",
         "site": [
             {
                 "name": "万花筒",
