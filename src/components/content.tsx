@@ -146,17 +146,6 @@ const Content = () => {
                                 让每个人都能找到自己需要的资源。如果你有比较好的资源，可以通过下方地址提供给我们。
                             </Text>
                             <Text>
-                                Castalia 是 Afterwork 中的一个项目，想了解更多其他项目可以点击下方图片。
-                            </Text>
-                            <Link
-                                href="https://afterwork-design.github.io"
-                            >
-                                <Image
-                                    src="./afterwork.png"
-                                    m="15px 0"
-                                />
-                            </Link>
-                            <Text>
                                 <b>我的</b>面板中所有内容都是存储在浏览器本地的，所以更换电脑或者浏览器，并不会同步数据。
                                 你可以点击卡片右上角的复选框将你喜欢的网站添加至<b>我的</b>。
                             </Text>

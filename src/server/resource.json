@@ -89,7 +89,7 @@
     },
     {
         "name": "阅读",
-        "icon": "./images/menu/book.svg",
+        "icon": "./images/menu/bookshelf.svg",
         "site": [
             {
                 "name": "微信读书",
@@ -205,7 +205,7 @@
     },
     {
         "name": "图片",
-        "icon": "./images/menu/picture.svg",
+        "icon": "./images/menu/pic.svg",
         "site": [
             {
                 "name": "pixiv",
@@ -307,7 +307,7 @@
     },
     {
         "name": "工具",
-        "icon": "./images/menu/tool.svg",
+        "icon": "./images/menu/toolkit.svg",
         "site": [
             {
                 "name": "滴答清单",
