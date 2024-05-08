@@ -48,12 +48,16 @@
                 "url": "http://www.ccamc.co"
             },
             {
-                "name": "Souka",
-                "url": "https://soukaapp.com/dict"
+                "name": "日语词典",
+                "url": "https://aoilang.com/dict/"
             },
             {
                 "name": "不背",
                 "url": "https://bbdc.cn/"
+            },
+            {
+                "name":"ProcessOn",
+                "url":"https://www.processon.com/"
             }
         ]
     },
@@ -334,10 +338,6 @@
                 "url": "https://tool.hi.cn/"
             },
             {
-                "name": "OKTools",
-                "url": "https://oktools.net"
-            },
-            {
                 "name": "SOJSON",
                 "url": "https://www.sojson.com"
             },
@@ -394,6 +394,10 @@
             {
                 "name": "pandas",
                 "url": "https://pandas.pydata.org/docs/reference/index.html"
+            },
+            {
+                "name": "ECharts",
+                "url": "https://echarts.apache.org/zh/index.html"
             },
             {
                 "name": "Gitee",
