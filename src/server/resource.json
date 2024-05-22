@@ -416,10 +416,6 @@
                 "url": "https://github.com"
             },
             {
-                "name": "github镜像",
-                "url": "https://hub.nuaa.cf/"
-            },
-            {
                 "name": "FastGit",
                 "url": "https://doc.fastgit.org"
             }

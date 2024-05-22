@@ -146,8 +146,8 @@ const Content = () => {
                                 你可以点击卡片右上角的复选框将你喜欢的网站添加至<b>我的</b>。
                             </Text>
                             <Text>
-                                项目地址：
-                                <a className="linkColor" href="https://github.com/afterwork-design/castalia">castalia | github</a>
+                                <p id="hitokoto"><a href="#" id="hitokoto_text">一言</a></p>
+                                <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto&c=d" defer></script>
                             </Text>
                         </VStack>
                     </Box>
