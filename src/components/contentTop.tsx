@@ -10,7 +10,7 @@ const ContentTop: React.FC<Props> = ({description}) => {
     return (
         <RounderBox
             height="150px"
-            bgImage="https://cdn.jsdelivr.net/gh/aozakic/castalia@main/public/header.png"
+            bgImage="./header.png"
             bgSize="cover"
             bgRepeat="no-repeat"
             display="flex"

@@ -173,7 +173,8 @@
             },
             {
                 "name": "萌番组",
-                "url": "https://bangumi.moe"
+                "url": "https://bgm-moe.hacgn.fun",
+                "description": "Bangumi.moe镜像网站"
             },
             {
                 "name": "蜜柑计划",
@@ -329,6 +330,10 @@
                 "url": "https://up.woozooo.com"
             },
             {
+                "name": "Hi工具网",
+                "url": "https://tool.hi.cn/"
+            },
+            {
                 "name": "OKTools",
                 "url": "https://oktools.net"
             },
@@ -409,6 +414,10 @@
             {
                 "name": "github镜像",
                 "url": "https://hub.nuaa.cf/"
+            },
+            {
+                "name": "FastGit",
+                "url": "https://doc.fastgit.org"
             }
         ]
     },
