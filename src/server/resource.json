@@ -177,8 +177,7 @@
             },
             {
                 "name": "萌番组",
-                "url": "https://bgm-moe.hacgn.fun",
-                "description": "Bangumi.moe镜像网站"
+                "url": "https://bangumi.moe"
             },
             {
                 "name": "蜜柑计划",
@@ -334,10 +333,6 @@
                 "url": "https://up.woozooo.com"
             },
             {
-                "name": "Hi工具网",
-                "url": "https://tool.hi.cn/"
-            },
-            {
                 "name": "SOJSON",
                 "url": "https://www.sojson.com"
             },
@@ -414,10 +409,6 @@
             {
                 "name": "GitHub",
                 "url": "https://github.com"
-            },
-            {
-                "name": "FastGit",
-                "url": "https://doc.fastgit.org"
             }
         ]
     },
