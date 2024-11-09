@@ -203,6 +203,11 @@
                 "name": "识图找番",
                 "url": "https://trace.moe",
                 "description": "trace.moe"
+            },
+            {
+                "name": "AnimeTrace",
+                "url": "https://ai.animedb.cn",
+                "description": "以图识番"
             }
         ]
     },
@@ -358,7 +363,7 @@
             },
             {
                 "name": "文本转语音",
-                "url": "https://bv2.firefly.matce.cn/"
+                "url": "https://fish.audio"
             }
         ]
     },
