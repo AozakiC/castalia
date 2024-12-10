@@ -146,10 +146,6 @@
             {
                 "name": "QuestMobile报告",
                 "url": "https://www.questmobile.com.cn/research/reports"
-            },
-            {
-                "name": "财联社",
-                "url": "https://www.cls.cn/"
             }
         ]
     },
@@ -170,6 +166,15 @@
             {
                 "name": "AGE动漫",
                 "url": "https://www.agedm.org/"
+            },
+            {
+                "name": "嘶哩嘶哩",
+                "url": "https://www.silisili.link/",
+                "description": "silisilinb"
+            },
+            {
+                "name": "NyaFun动漫",
+                "url": "https://www.nyadm.net/"
             },
             {
                 "name": "YouTube",
@@ -278,6 +283,10 @@
                 "url": "https://qzone.qq.com"
             },
             {
+                "name": "NGA",
+                "url": "https://bbs.nga.cn/"
+            },
+            {
                 "name": "京东",
                 "url": "https://www.jd.com/"
             },
@@ -364,6 +373,10 @@
             {
                 "name": "文本转语音",
                 "url": "https://fish.audio"
+            },
+            {
+                "name": "MikuTools",
+                "url": "https://okmiku.com/"
             }
         ]
     },
@@ -426,10 +439,6 @@
                 "url": "https://0x3.com"
             },
             {
-                "name": "ACG导航",
-                "url": "https://acgdh.cc"
-            },
-            {
                 "name": "小白-白",
                 "url": "https://moedog.org"
             },
@@ -456,6 +465,10 @@
             {
                 "name": "ApacheCN",
                 "url": "https://docs.apachecn.org/"
+            },
+            {
+                "name": "CappuccinoZ",
+                "url": "https://cappuccinoz.github.io/"
             }
         ]
     }
