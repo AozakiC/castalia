@@ -243,6 +243,10 @@
             {
                 "name": "pom",
                 "url": "https://pom-official.jp/"
+            },
+            {
+                "name": "轻音部的小窝",
+                "url": "https://www.miomoe.cn/"
             }
         ]
     },
@@ -371,8 +375,13 @@
                 "url": "https://www.taluo.me/"
             },
             {
-                "name": "文本转语音",
+                "name": "Fish Audio",
                 "url": "https://fish.audio"
+            },
+            {
+                "name": "语音合成",
+                "url": "https://gsv.acgnai.top/",
+                "description": "在线推理服务由AI Hobbyist提供"
             },
             {
                 "name": "MikuTools",
