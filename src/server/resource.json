@@ -323,6 +323,10 @@
             {
                 "name": "东方",
                 "url": "https://cn.thdog.moe"
+            },
+            {
+                "name": "galgame藏经阁",
+                "url": "https://www.galgameacgjohn.top/"
             }
         ]
     },
@@ -436,6 +440,10 @@
             {
                 "name": "GitHub",
                 "url": "https://github.com"
+            },
+            {
+                "name": "Y分钟速成X",
+                "url": "https://learnxinyminutes.com/"
             }
         ]
     },
